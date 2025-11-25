@@ -10,5 +10,9 @@
 - Django
 - MySQL
 - PostgreSQL
+- GitHub Actions
+- Docker
+- Linux
+- System Administration
 - AWS
 - GCP
